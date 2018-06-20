@@ -18,5 +18,3 @@ process.stdin.on('readable', function() {
         };
     }
 });
-
-// może być return wewnątrz 
